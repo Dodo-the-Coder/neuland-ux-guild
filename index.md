@@ -1,10 +1,10 @@
-## UX (User Experience) An Beispielen
+# UX (User Experience) An Beispielen
 
 Die **UX-Gilde** von [neuland](https://www.neuland-bfi.de/) bietet euch hier Beispiele von guter 
 und schlechter UX, wobei die Berwertung natürlich auch immer einen subjektiven Touch hat. Wir 
 liefern aber die Begründungen dazu, warum etwas als gut oder schlecht bewertet werden kann.
 
-### Fall von LinkedIn: Der nicht hilfreiche Spinner
+## Fall von LinkedIn: Der nicht hilfreiche Spinner
 
 Im folgenden Beispiel wird ein Spinner für eine hohe Zahl angeboten. Es macht nicht viel Sinn, bei 
 vielstelligen Zahlen wie Telefonnummern, Postleitzahlen, Kreditnummer oder eben Verifikationsnummern 
@@ -26,7 +26,7 @@ Verfügung gestellt.
 #### Lösung:
 Switches für verschiedene Browser Agenten (mobile vs Desktop) _[TODO: etwas mehr ausführen]_
 
-### Fall: Dem Anwender schön aufzeigen, was man alles nicht darf
+## Fall: Dem Anwender schön aufzeigen, was man alles nicht darf
 
 In einem unserer früheren Projekte für ein Backoffice Tool können Daten über bestimmte Kriterien 
 gefiltert werden. Es gibt aber eine Gruppe von Anwendern, die niemals nach z.B. "Suppliern" filtern 

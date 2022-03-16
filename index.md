@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## UX (User Experience) Am Beispiel
 
-You can use the [editor on GitHub](https://github.com/Dodo-the-Coder/neuland-ux-guild/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Die **UX-Gilde** von [neuland](https://www.neuland-bfi.de/) bietet euch hier Beispiele von guter und schlechter UX. Wir liefern euch auch die Begründungen, warum etwas als gut oder schlecht bewertet werden kann.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Von LinkedIn: Der nicht hilfreiche Spinner
 
-### Markdown
+Im folgenden Beispiel wird ein Spinner für eine hohe Zahl angeboten. Es macht nicht viel Sinn, bei vielstelligen Zahlen wie Telefonnummern, Postleitzahlen, Kreditnummer oder eben Verifiaktionsnummern einen Spinner anzubieten. Der Anwender würde ewig brauchen, um zur richtigen Zahl zu kommen.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+(hier wäre theoretisch ein Bild)
 
-```markdown
-Syntax highlighted code block
+Es ist aber nicht perse schlecht, denn die Eingabe ist ja auch ohne Spinner möglich. Es verwirrt den Nutzer einfach nur kurz.
 
-# Header 1
-## Header 2
-### Header 3
+Zur Erklärung, warum es zu diesem seltsamen Feld im Screenshot überhaupt kommen konnte (ist nur eine Theorie): Ziel war es vielleicht, ein HTML-Feld zu nutzen, das bei Smartphones die Zahlentastatur öffnet (`inputmode="numeric"`). Aber im Desktop wird damit halt die Up-Down-Bedienelemente zur Verfügung gestellt.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Dodo-the-Coder/neuland-ux-guild/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

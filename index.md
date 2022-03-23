@@ -48,7 +48,7 @@ Je weniger das Auge zu lesen und je weniger das Hirn auszublenden hat, desto ang
 für den Anwender.
 
 
-### Fall: Nicht hilfreiche Fehlermeldungen ausspielen
+## Fall: Nicht hilfreiche Fehlermeldungen ausspielen
 
 Wenn etwas schiefläuft, ist es immer wichtig, den Kunden darüber zu informieren:
 - Was war der Fehler?
@@ -73,7 +73,7 @@ Lösungen angeboten werden.
 Hinweis: Auch Fehlermeldungen sind grundsätzlich vor dem Release zu prüfen.
 
 
-### Fall: Irreführende UI-Texte
+## Fall: Irreführende UI-Texte
 
 In dem nächsten Beispiel wollte ich mich bei Pixabay anmelden. Einen Account hatte ich bereits.
 Aber nun werden mir zwei Möglichkeiten angeboten:
@@ -91,7 +91,7 @@ kurzen und doch möglichst informativen Texten abwägen.
 Hier wäre ein einfaches "Anmelden" und "Registrieren" schon hilfreich gewesen.
 
 
-### Fall: Unlogische Anordnung der Komponenten
+## Fall: Unlogische Anordnung der Komponenten
 
 Wenn man einem Anwender Informationen anzeigt, erwartet er sie in manchen Fällen in einer
 bestimmten Anordnung oder Reihenfolge.
